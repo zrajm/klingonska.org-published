@@ -1,0 +1,1 @@
+img[alt=""]{border:3px dotted red}img:not([alt]){border:5px solid red}a[href="#"]{background-color:lime}a[href=""]{background-color:lime}span:empty,li:empty,p:empty,td:empty,th:empty{padding:.5em;background-color:yellow}

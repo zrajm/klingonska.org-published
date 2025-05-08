@@ -1,0 +1,43 @@
+[[
+  [2016-10-03] added document
+
+  Type: email
+  Date: 2011-11-15
+  Title: Re: [Tlhingan-hol] learnings from Saarbrücken {qepHom'a'}
+  Author: Lieven L. Litaer (describing conversation with Marc Okrand)
+  Summary: Marc Okrand says that there's no equivalent to “be full/satisfied”,
+    but that one can use {ghungHa'} ~not be hungry any more~ and {'ojHa'} ~not
+    be thirsty any more.~
+
+]]
+
+Date: Tue, 15 Nov 2011 14:02:40 +0100
+From: Lieven Litaer <lieven.litaer@web.de>
+To: "tlhingan-hol@kli.org" <tlhingan-hol@kli.org>
+Subject: Re: [Tlhingan-hol] learnings from Saarbrücken qepHom'a'
+
+ja' De'vID:
+> <Soj> refers not just to food, but anything consumed for sustenance
+> (i.e., "food" in a more general sense than "solid food")
+
+Talking about food, no new word, but an interesting explanation:
+
+I asked if there were a word for "satisfied", "I'm full", i.e. you had 
+eaten enough.
+
+MO said no, but accepted {ghungHa'} for "not hungry any more". You 
+cannot use it though to say that you are not hungry, that should be 
+{ghungbe'} "not hungry". But if you are hungry first, then you eat 
+enough, then you can say {DaH jIghungHa'} "Now I am un-hungry." (="not 
+hungry any more")
+
+It also works with {'oj} the same way.
+
+Lieven.
+
+_______________________________________________
+Tlhingan-hol mailing list
+Tlhingan-hol@stodi.digitalkingdom.org
+http://stodi.digitalkingdom.org/mailman/listinfo/tlhingan-hol
+
+[[eof]]

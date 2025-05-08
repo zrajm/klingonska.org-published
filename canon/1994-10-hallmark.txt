@@ -1,0 +1,73 @@
+[[
+  [2009-04-14] hunted down all info I could find on the web
+  [2009-04-14] Steven Boozer sent me all info *he* had (much more!)
+  [2011-11-01] Added video to klingonska.org, cleaned up transcript
+  Style: {}=bold, <>=italics
+
+  Type: video
+  Date: October 1994 (or possibly November)
+  Title: Hallmark TV Commercial for Bird-of-Prey Christmas Ornament
+  Author: Marc Okrand (translator)
+  Video: http://klingonska.org/canon/1994-10-hallmark.mp4
+  Summary: Hallmark Entertainment TV commercial for promoting a Klingon
+    Bird-of-Prey Christmas ornament. Dialogue in Klingon, with English
+    subtitles. Klingon translation by Marc Okrand. See also:
+    http://www.youtube.com/watch?v=9eM1OSNGLwI (YouTube video uploaded by
+    garymalone1701). Abbreviated <Hallmark>.
+
+]]
+
+In this commercial Klingon commander Gowron (as seen in <Star Trek: The Next
+Generation>) rewards his officers for victory in battle by giving them a gift
+-- a Klingon Bird-of-Prey Christmas ornament. Gowron is played by Robert
+O'Reilly, Crewman 1 by Guy Vardaman.
+
+Gowron: {Qapla'}
+<Greetings!>
+
+Gowron: {pIj maSuvpu' batlh maSuvpu' 'ej maQapbejta'}
+<In our many battles, we have fought with honor and achieved... victory!>
+
+Gowron: {vaj malopmeH tlhIHvaD nob SaSuqpu'}
+<So to celebrate, I've gotten you all a gift.>
+
+Gowron: {tlhIngan toQDujHom 'oH}
+<It's a Klingon Bird-of-Prey ornament.>
+
+Crewman 1: {toQDujna' rurchu'}
+<It looks so real!>
+
+Crewman 2: {Qapqu' wovmoHbogh janHommey}
+<It even has working lights!>
+
+Speaker: Hallmark introduces the exclusive Klingon keepsake ornament. Call
+1-800-HALLMARK for a Gold Crown store near you.
+
+Crewman 1: ({peghmo' ... }) [[??]]
+<That was real nice of him.>
+
+Crewman 2: {HIja' <gibberish> wISuqnIS} [[??]]
+<Yeah, we should get him a thank you card.>
+
+The last two lines are badly garbled. Whatever gibberish Crewman 2 is saying,
+from the verb prefix {wI-} it should be a singular object noun, probably formed
+from the verb {tlho'} <thank> or the noun {tlho'} <appreciation, gratitude> --
+*{tlho'meH nav/ghItlh} <thank you card>?
+
+"The commercial switches to Federation Standard displaying the ship and giving
+the sales pitch. After that we see the warriors speaking to one another as they
+leave through the door. [This scene seems to follow the rule: 'If you can't
+remember your lines, mumble a lot.' We can only surmise that Dr. Okrand gave
+them some legitimate lines and they chose to fake it instead.]" (Glen Proechel)
+
+Marc Okrand commented on the old MSN BBS (6/18/1997):
+"I haven't seen the commercial in a while, but I don't think {wov} was used as
+a noun there. Though the Klingons in the ad may have ad libbed a bit, the
+phrase the one Klingon was supposed to say regarding the little lights in the
+Bird of Prey ornament was {wovmoHbogh janHommey}. That is, 'little devices that
+cause (something) to be light or bright' or 'little devices that brighten
+(something)' or 'little devices that light (something) up' or the like. {wov}
+is a verb 'be light, bright' followed by the suffix {-moH} 'cause' (thus,
+'cause to be light')."
+
+[[eof]]

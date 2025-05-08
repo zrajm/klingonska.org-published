@@ -1,0 +1,89 @@
+: -*- html -*-
+created: 2010-11-03
+updated: 2015-10-09T00:31:16+0200
+author: zrajm
+year: 2010-2015
+style: gallery.css
+lang: en
+
+{taHjaj wo'} – _An Imperial Anthem_
+===================================
+
+This song was written in <time>1993</time> by Rich Yampell, and has, as far as
+I know, been sung at every {qep'a'} to date. To hear this song sung by a dozen
+or more klingonists in three-piece harmony is quite the experience!
+
+There is also a parody of this song, set to the same melody, called [{DaHjaj
+po} -- <<Today morning>>](../dahjaj_po.txt).
+
+<div class=gallery>
+  <a class=item style="width:250px" href="http://www.youtube.com/watch?v=MnvAGY1t9es"
+      title="YouTube video">
+    <img src="pic/mini/youtube-video.jpg" width=250 height=146>
+    Video from {qep'a'} <time>2010</time>, by {qurgh} (&#8594;YouTube)
+  </a>
+  <a class=item style="width:250px" href="tahjaj_wo.pdf"
+      title="Musical score">
+    <img src="pic/mini/tahjaj_wo.png" width=250 height=177>
+    PDF Musical Score
+  </a>
+  <a class=item style="width:128px" href="tahjaj_wo.txt"
+      title="Lyrics file">
+    <img src="pic/text-icon.png" width=128 height=128>
+    Plaintext Lyrics
+  </a>
+  <a class=item style="width:128px" href="tahjaj_wo.ly"
+      title="Source file">
+    <img src="pic/text-icon.png" width=128 height=128>
+    LilyPond Source
+  </a>
+  <a class=item style="width:128px" href="tahjaj_wo.ntd"
+      title="Source file">
+    <img src="pic/text-icon.png" width=128 height=128>
+    NoteEdit Source
+  </a>
+  <a class=item style="width:128px" href="tahjaj_wo.midi"
+      title="All voices">
+    <img src="pic/midi-icon.png" width=128 height=128>
+    MIDI All Voices
+  </a>
+  <a class=item style="width:128px" href="tahjaj_wo-1.midi"
+      title="Only first voice">
+    <img src="pic/midi-icon.png" width=128 height=128>
+    MIDI 1st Voice
+  </a>
+  <br>
+  <a class=item style="width:128px" href="tahjaj_wo-2.midi"
+      title="Only second voice">
+    <img src="pic/midi-icon.png" width=128 height=128>
+    MIDI 2nd Voice
+  </a>
+  <a class=item style="width:128px" href="tahjaj_wo-3.midi"
+      title="Only third voice">
+    <img src="pic/midi-icon.png" width=128 height=128>
+    MIDI 3rd Voice
+  </a>
+  <a class=item style="width:250px" href="pic/tahjaj_wo-1.gif"
+      title="Verses grouped together">
+    <img src="pic/mini/tahjaj_wo-1.png" width=250 height=174>
+    GIF Table (verses grouped together)
+  </a>
+  <a class=item style="width:250px" href="pic/tahjaj_wo-2.gif"
+      title="Voices grouped together">
+    <img src="pic/mini/tahjaj_wo-2.png" width=250 height=179>
+    GIF Table (voices grouped together)
+  </a>
+</div>
+
+Most of the files above are the result of me trying to transcribe the song to
+into musical score using [LilyPond](http://www.lilypond.org/) (a music score
+typesetter) and [NoteEdit](http://noteedit.berlios.de/) (a WYSIWYG music score
+editor), both for GNU/Linux. Melodies for voices II & III and the chords were
+contributed by Ryan Hart in December, 2012. Some additional improvements were
+made in May, 2013, after being suggested by Leon Zendejas Medina.
+
+There are probably still a couple of errors left -- should you find one of
+these, [please tell us so](mailto:zrajm@klingonska.org), so that we may
+continue to improve these scores.
+
+[[eof]]

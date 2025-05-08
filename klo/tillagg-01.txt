@@ -1,0 +1,309 @@
+: -*- html -*-
+title: Klingonsk ordbok
+author: zrajm
+year: 1998-2009
+lang: sv
+prev: ordlista-05
+next: tillagg-02
+
+Alternativ guide till de klingonska affixen [[**1999-07-23]]
+============================================================
+
+1. Pronominella prefix [[**]]
+-----------------------------
+
+<table class="prefix">
+  <caption>Klingonska verbprefix</caption>
+  <tr align="center">
+    <th colspan="7" class="object"><big>Objekt</big>
+    <th colspan="2" rowspan="2">
+  <tr align="center">
+    <th>{jIH}
+    <th>{maH}
+    <th>{SoH}
+    <th>{tlhIH}
+    <th>{ghaH<br />'oH}
+    <th>{chaH<br />bIH}
+    <th>{<em>pagh</em>}
+  <tr align="center">
+    <td>{HI-}
+    <td>{gho-}
+    <td>
+    <td>
+    <td>{yI-}
+    <td>{tI-}
+    <td>{yI-}
+    <th>{SoH <em>ra'</em>}
+    <th rowspan="9" class="subject"><big>S<br />u<br />b<br />j<br />e<br />k<br />t</big>
+  <tr align="center">
+    <td>{HI-}
+    <td>{gho-}
+    <td>
+    <td>
+    <td>{yI-}
+    <td>{tI-}
+    <td>{pe-}
+    <th>{tlhIH <em>ra'</em>}
+  <tr align="center">
+    <td>
+    <td>
+    <td>{qa-}
+    <td>{Sa-}
+    <td>{vI-}
+    <td>{vI-}
+    <td>{jI-}
+    <th>{jIH}
+  <tr align="center">
+    <td>
+    <td>
+    <td>{pI-}
+    <td>{re-}
+    <td>{wI-}
+    <td>{DI-}
+    <td>{ma-}
+    <th>{maH}
+  <tr align="center">
+    <td>{cho-}
+    <td>{ju-}
+    <td>
+    <td>
+    <td>{Da-}
+    <td>{Da-}
+    <td>{bI-}
+    <th>{SoH}
+  <tr align="center">
+    <td>{tu-}
+    <td>{che-}
+    <td>
+    <td>
+    <td>{bo-}
+    <td>{bo-}
+    <td>{Su-}
+    <th>{tlhIH}
+  <tr align="center">
+    <td>{mu-}
+    <td>{nu-}
+    <td>{Du-}
+    <td>{lI-}
+    <td>{-}
+    <td>{-}
+    <td>{-}
+    <th>{ghaH/'oH}
+  <tr align="center">
+    <td>{mu-}
+    <td>{nu-}
+    <td>{nI-}
+    <td>{lI-}
+    <td>{lu-}
+    <td>{-}
+    <td>{-}
+    <th>{chaH/bIH}
+  <tr align="center">
+    <td>{vI-lu'}
+    <td>{wI-lu'}
+    <td>{Da-lu'}
+    <td>{bo-lu'}
+    <td>{-lu'}
+    <td>{lu-lu'}
+    <td>{-lu'}
+    <th>{<em>vay'</em>}
+</table>
+
+Bindestrecket i tabellen motsvarar verbet. Då ett bindestreck förekommer utan
+prefix, betyder detta att verbet ska vara prefixlöst. En tom ruta betyder att
+denna kombination av subjekt/objekt inte kan skrivas med endast ett verbprefix.
+(Det reflexiva suffixet {-'egh} "sig själv" kan användas tillsammans med alla
+objektlösa prefix [sista kolumnen, med rubriken {pagh} "ingen"], likaså kan det
+reciproka suffixet {-chuq} "varandra" användas av de objektlösa suffix vars
+subjekt är i plural.) Då ordet {ra'} "beordra, kommendera" står i samband med
+subjektet betyder att det är ett imperativ.
+
+Den här tabellen över klingonskans pronomeniella suffix är konstruerad så att
+likadana prefix placerats intill varandra. Detta underlättar sökningen efter ett
+visst klingonskt prefix och dess betydelser. Alla pronomen i tabellen har
+översatts till klingonska, vilket tvingar läsare att lära sig dessa
+grundläggande ord. Kombinationer med prefix plus suffixet {-lu'} har tagits med
+i tabellen, eftersom jag ofta funnit dem förvirrande och lätta att ta miste på.
+
+
+2. Verbsuffix [[**]]
+--------------------
+
+| 1. | [Sig själv/varandra][v1]                                    ||
+|----|----------|---------------------------------------------------|
+|    | {-'egh}  | sig själv                                         |
+|    | {-chuq}  | varandra (kan endast användas med plural subjekt) |
+
+
+| 2. | [Villighet/benägenhet][v2]                                               ||
+|----|----------|----------------------------------------------------------------|
+|    | {-nIS}   | behöver                                                        |
+|    | {-qang}  | villig                                                         |
+|    | {-rup}   | redo, beredd (används om varelser)                             |
+|    | {-beH}   | redo, iordningställd (används om apparater)                    |
+|    | {-vIp}   | rädd (kulturellt tabu att använda med subjekt i första person) |
+
+
+| 3. | [Förändring][v3]                                        ||
+|----|----------|-----------------------------------------------|
+|    | {-choH}  | förändring i tillstånd, förändring i riktning |
+|    | {-qa'}   | fortsätta, göra igen                          |
+
+
+| 4. | [Orsak][v4]                            ||
+|----|----------|------------------------------|
+|    | {-moH}   | orsaka                       |
+
+
+| 5. | [Indefinit subjekt/förmåga][v5]        ||
+|----|----------|------------------------------|
+|    | {-lu'}   | indefinit subjekt            |
+|    | {-laH}   | kan                          |
+
+
+| 6. | [Kvalifikation][v6]                    ||
+|----|----------|------------------------------|
+|    | {-chu'}  | perfekt, tydligt             |
+|    | {-bej}   | definitivt, tveklöst         |
+|    | {-law'}  | antagligen, nog, verkar vara |
+|    | {-ba'}   | uppenbarligen [TKDa]         |
+
+
+| 7. | [Aspekt][v7]                           ||
+|----|----------|------------------------------|
+|    | {-pu'}   | perfektiv                    |
+|    | {-ta'}   | utfört, gjort                |
+|    | {-taH}   | pågående                     |
+|    | {-lI'}   | fortskridande, framskridande |
+
+
+| 8. | [Hedersbetygande][v8]                                                                   ||
+|----|----------|-------------------------------------------------------------------------------|
+|    | {-neS}   | hedersbetygande (används endast vid tilltal av överordnad, aldrig nödvändigt) |
+
+
+| 9. | [Syntaktiska markörer][v9]                                                    ||
+|----|----------|---------------------------------------------------------------------|
+|    | {-DI'}   | när, så snart som                                                   |
+|    | {-chugh} | om, ifall                                                           |
+|    | {-pa'}   | innan, före                                                         |
+|    | {-vIS}   | medan                                                               |
+|    | {-bogh}  | som (markerar relativ bisats)                                       |
+|    | {-meH}   | i syfte att                                                         |
+|    | {-mo'}   | på grund av [TKDa]                                                  |
+|    | {-'a'}   | interrogativ                                                        |
+|    | {-jaj}   | må, månde (konjunktiv) [TKDa]                                       |
+|    | {-wI'}   | en som gör, sak som gör, en som är                                  |
+|    | {-ghach} | substantiviserare [TKDa] (föregås alltid av minst ett annat suffix) |
+
+
+| S. | [Strövare][vs]                                                                    ||
+|----|----------|-------------------------------------------------------------------------|
+|    | {-be'}   | inte (används ej i imperativ, då används {-Qo'} istället)               |
+|    | {-Qo'}   | gör inte!, tänker inte (kommer sist, om inte följd av ett suffix typ 9) |
+|    | {-Ha'}   | negera, göra ogjort (kommer alltid direkt efter verbet)                 |
+|    | {-qu'}   | emfatiskt, framhävande                                                  |
+
+[v1]: grammatik-04.html#_4_2_1
+[v2]: grammatik-04.html#_4_2_2
+[v3]: grammatik-04.html#_4_2_3
+[v4]: grammatik-04.html#_4_2_4
+[v5]: grammatik-04.html#_4_2_5
+[v6]: grammatik-04.html#_4_2_6
+[v7]: grammatik-04.html#_4_2_7
+[v8]: grammatik-04.html#_4_2_8
+[v9]: grammatik-04.html#_4_2_9
+[vs]: grammatik-04.html#_4_3
+
+
+De tre strövarna {-be'}, {-qu'} och {-Ha'} har då och då setts vidhäfta verb som
+används som adjektiv. ({wanI' ramqu'} _en väldigt oviktig händelse_ [TKD s.50],
+{yIHmey lI'be'} _oanvändbara tribblar_ [CK], {Duj ngaDHa'} _instabil farkost_
+[KGT s.150])
+
+
+3. Substantivsuffix [[**]]
+--------------------------
+
+| 1. | [Augmentativ/diminutiv, affektion][s1]               ||
+|----|----------|--------------------------------------------|
+|    | {-'a'}   | augmentativ                                |
+|    | {-Hom}   | diminutiv                                  |
+|    | {-oy}    | affektion [TKDa]                           |
+
+
+| 2. | [Numerus][s2]                                        ||
+|----|----------|--------------------------------------------|
+|    | {-pu'}   | plural (för varelser förmögna till språk)  |
+|    | {-Du'}   | plural (för kroppsdelar)                   |
+|    | {-mey}   | plural (generell användning)               |
+
+
+| 3. | [Kvalifikation][s3]                                  ||
+|----|----------|--------------------------------------------|
+|    | {-qoq}   | så kallad                                  |
+|    | {-Hey}   | synbar, skenbar                            |
+|    | {-na'}   | definitiv                                  |
+
+
+| 4. | [Possesiv/demonstrativ][s4]                          ||
+|----|----------|--------------------------------------------|
+|    | {-wIj}   | min, mitt                                  |
+|    | {-wI'}   | min, mitt (substantiv förmöget till språk) |
+|    | {-maj}   | vår, vårt                                  |
+|    | {-ma'}   | vår, vårt (substantiv förmöget till språk) |
+|    | {-lIj}   | din, ditt                                  |
+|    | {-lI'}   | din, ditt (substantiv förmöget till språk) |
+|    | {-raj}   | er, ert                                    |
+|    | {-ra'}   | er, ert (substantiv förmöget till språk)   |
+|    | {-Daj}   | hans, hennes, dess                         |
+|    | {-chaj}  | deras                                      |
+|    | {-vam}   | den här                                    |
+|    | {-vetlh} | den där                                    |
+
+
+| 5. | [Syntaktiska markörer][s5]                           ||
+|----|----------|--------------------------------------------|
+|    | {-Daq}   | lokativ                                    |
+|    | {-vo'}   | från                                       |
+|    | {-mo'}   | på grund av, beroende på                   |
+|    | {-vaD}   | för, avsedd för                            |
+|    | {-'e'}   | tema, ämne                                 |
+
+[s1]: grammatik-03.html#_3_3_1
+[s2]: grammatik-03.html#_3_3_2
+[s3]: grammatik-03.html#_3_3_3
+[s4]: grammatik-03.html#_3_3_4
+[s5]: grammatik-03.html#_3_3_5
+
+
+[[
+
+4. Särskilda numeriska suffix [[**]]
+------------------------------------
+
+| 1. | [Nummerbildande element][n1]    ||
+|----|-------------------|--------------|
+|    | {-maH}            | tio          |
+|    | {-vatlh}          | hundra       |
+|    | {-SaD} / {-SanID} | tusen        |
+|    | {-netlh}          | tiotusen     |
+|    | {-bIp}            | hundratusen  |
+|    | {-'uy'}           | miljon       |
+
+
+| 2. | [Ordningstal/upprepningar][n1]                                                          ||
+|----|----------|-------------------------------------------------------------------------------|
+|    | {-DIch}  | bildar ordningstal ("första", "andra" etc., ordet följer substantivet)        |
+|    | {-logh}  | bildar upprepningar ("en gång", "två gånger" etc., ordet fungerar som adverb) |
+
+[n1]: grammatik-05.html#_5_2
+
+Indelningen av de numeriska suffixen i typer görs inte i TKD. Denna indelning
+har sitt ursprung i ett datorprogram jag skrev som behövde kunna distingera de
+två sorterna numeriska suffix. Indelningen känns dock logisk och har därför
+inkluderats här. Jag vill dock på intet sätt hävda att detta skulle vara
+auktoriserat av varken Marc Okrand eller <i>The Klingon Language Institute</i>.
+/övers.anm.]]
+
+[[eof]]

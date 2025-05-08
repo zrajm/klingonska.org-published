@@ -1,0 +1,229 @@
+<!DOCTYPE html><!--*- js-indent-level: 2; css-indent-offset: 2 -*-->
+<!-- Copyright 2000–2020 by zrajm. License: CC BY-SA (text), GPLv2 (code) -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{pIqaD} Playground &ndash; Klingonska Akademien</title>
+<link rel=stylesheet href="../../includes/base.css">
+<style>
+@font-face {
+  font-family: piqad;
+  src: url('kapiqadroman-medium.woff');
+}
+textarea {
+  width: 100%;
+  min-height: 24em;
+  font-size: 1.25rem;
+  line-height: 2;
+  text-align: center;
+  text-rendering: optimizeLegibility;
+  padding: 0;
+}
+.roman-view textarea { font-family: inherit; }
+.piqad,
+.piqad-view textarea { font-family: piqad; }
+/******************************************
+* Switch for pIqaD/roman.
+*/
+.switch {
+  float: right;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #999;
+  padding: 2px 1px;
+  position: relative;
+  top: -2px;
+  right: -1px;
+  cursor: pointer;
+  border-radius: 4px; /* form border radius */
+}
+.switch > .knob {
+  vertical-align: top;
+  display: inline-block;
+  width: 1.6em;
+  height: .9em;
+  box-sizing: content-box;
+  background: #eee;
+  border: 1px solid #888;
+  border-radius: 1em;
+  box-shadow: inset 0 2px 5px 3px #ccc;
+  position: relative;
+  top: .1em;
+}
+.switch > .knob:before {
+  transition: all .05s ease-in;
+  content: '';
+  width: .9em;
+  height: 100%;
+  background: white;
+  position: absolute;
+  border: inherit;
+  border-radius: inherit;
+  margin: -1px;
+}
+.roman-view .switch > .knob:before { right: 0; }
+.piqad-view .switch > .knob:before { left:  0; }
+.piqad-view .switch > .piqad,
+.roman-view .switch > .roman  {
+  color: #065FD4;
+}
+</style>
+<style>
+table.mapping tbody,
+table.mapping th,
+table.mapping td {
+  border: 0;
+  padding: 0;
+}
+table.mapping {
+  margin: 1.5em 0;
+  text-align: center;
+  border-collapse: separate;
+  border-spacing: .5em 0;
+  border: solid black;
+  border-width: 1px 0;
+}
+table.mapping th { text-align: left; }
+</style>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#bb3333">
+<meta name="msapplication-TileColor" content="#bb3333">
+<meta name="theme-color" content="#bb3333">
+<link rel=canonical href="http://klingonska.org/writing/play/">
+
+<header role=banner>
+  <!-- begin:status -->
+  <ul>
+    <li>
+      <nav itemprop=breadcrumb role=navigation>
+        <a href="http://klingonska.org/">Home</a> &#8250;
+        <a href="http://klingonska.org/writing/play/" itemprop=url>{pIqaD} Playground</a>
+      </nav>
+    <li>
+      Updated <time pubdate itemprop=dateModified datetime="2020-09-08 07:35+0200">September 8, 2020</time>
+  </ul>
+  <!-- end:status -->
+  <div>
+    <a href="../../">
+      <table id="logotitle">
+        <td>
+          <span class="crop">
+            <img height="200" width="200" src="../../pic/ka-logo.svg" alt="Klingonska Akademien">
+          </span>
+        <td>
+          <h1>Klingonska<span id="logospace">&nbsp;</span>Akademien</h1>
+      </table>
+    </a>
+  </div>
+</header>
+
+<div role=main itemprop=mainContentOfPage>
+<h1 id="Playground"><b lang=tlh>pI­qaD</b> Playground</h1>
+
+<p>Type/paste Klingon text below. You may use Okrandian transcription and
+<em>xifan hol</em>. I recommend putting spaces arround <span class=piqad
+title="Full Stop (.!?)">.</span> and <span class=piqad
+title="Half Stop (,;:)">,</span> – this is the way they were first written on
+the SkyBox cards.<sup><a href="#1">[1]</a></sup></p>
+
+<div class="wrapper piqad-view">
+  <span class=switch tabindex=0 hidden>
+    <span class=piqad>tlhIngan</span>
+    <span class=knob></span>
+    <span class=roman>tlhIngan</span>
+  </span>
+  <textarea class=piqad autofocus>
+ 
+ 
+yIjatlh SoHvaD jIjatlh .
+bItam .
+yIjatlh jIjach .
+bItamqu’ .
+yIjatlh jItlhup .
+’ach not bI’Ij . bItam .
+reH bItam .
+ 
+« qonta’ maHvatlh »</textarea>
+</div>
+
+<p><b lang=tlh>pI­qaD</b> conversion is performed automatically by the font
+used.<sup><a href="#2">[2]</a></sup></p>
+
+<h2 id="Xifan_hol">Xifan hol</h2>
+
+<p><i>Xifan hol</i> uses the full English alphabet (<em>a–z</em>), it does not rely on
+capitalization, and each sound is written using just one character. This means
+that single letters are used instead of the digraphs <b lang=tlh>ch</b>, <b lang=tlh>gh</b>, and <b lang=tlh>ng</b> and
+the trigraph <b lang=tlh>tlh</b>, that lower case letters are used instead of <b lang=tlh>D</b>, <b lang=tlh>H</b>, <b lang=tlh>I</b>,
+<b lang=tlh>Q</b> and <b lang=tlh>S</b>, that <b lang=tlh>q</b>/<b lang=tlh>Q</b> are written as <code>k</code>/<code>q</code> respectively, and that the
+apostrophe (<b lang=tlh>’</b>) may be written using <code>z</code>. In regards to digits (<em>0–9</em>) and
+punctuation marks <em>,;:</em> and <em>.!?</em> there’s no difference between <em>xifan hol</em> and
+Okrandian transcription.</p>
+
+<p>The following table illustrates the differences between the Okrandian
+transcription and <em>xifan hol</em>:</p>
+
+<table class=mapping>
+<tr><th>Xifan hol<td><td><code>c</code><td><code>g</code><td><code>f</code><td><code>k</code><td><code>q</code><td><code>x</code><td><code>z</code><td><td><td><code>d</code><td><code>h</code><td><code>i</code><td><code>s</code>
+<tr><th>Okrandian<td><td><b lang=tlh>ch</b><td><b lang=tlh>gh</b><td><b lang=tlh>ng</b><td><b lang=tlh>q</b><td><b lang=tlh>Q</b><td><b lang=tlh>tlh</b><td><b lang=tlh>’</b><td><td><td><b lang=tlh>D</b><td><b lang=tlh>H</b><td><b lang=tlh>I</b><td><b lang=tlh>S</b>
+</table>
+
+<p><strong>Pros:</strong> <em>Xifan hol</em> is eminently suitable for user input, especially where
+typing speed is limited, such as on-screen keyboards (it is used, for example,
+by the app <em><a href="https://www.google.com/search?q=boQwI%27+app"><b lang=tlh>boQ­wI’</b></a></em>). Since
+there is a one-to-one correspondence between glyphs of <em>xifan hol</em> and <b lang=tlh>pI­qaD</b>,
+<em>xifan hol</em> was used by all early <b lang=tlh>pI­qaD</b> fonts (up until Unicode became widely
+adopted).</p>
+
+<p><strong>Cons:</strong> Since we klingonists have all taught ourselves to read Klingon using
+the Okrandian transcription system, <em>xifan hol</em> is less suited for tasks where
+speed of comprehension is important (e.g. when reading or proofreading).</p>
+
+<h2 id="Footnotes">Footnotes</h2>
+
+<ol>
+<li><a id="1"></a> These punctuation marks appeared on the SkyBox trading cards
+<a href="../../canon/sbx-sp1.html"><em>SP1, SP2</em> and <em>SP3</em></a> (1994), on <a href="../../canon/sbx-s7.html"><em>S7</em> and
+<em>S9</em></a> and <a href="../../canon/sbx-s13.html"><em>S13</em> and
+<em>S15</em></a> (1995) and again then on <a href="../../canon/sbx-s19.html"><em>S19, S20</em> and
+<em>S21</em></a> (1996) separated from the surrounding text
+by spaces. There were also two cards, <a href="../../canon/sbx-s7.html"><em>S8</em></a> and
+<a href="../../canon/sbx-s13.html"><em>S14</em></a> (1995), which did not separate punctuation
+marks and text with space. Since then the punctuation marks have not
+appeared again.</li>
+<li><a id="2"></a> This page uses the font <em>KApIqaDRoman</em>, based on <em>pIqaDRoman</em>
+v4.0 (created by <a href="http://artoflanguageinvention.com/">David J. Peterson</a> and
+<a href="https://hol.kag.org/page/qurgh.html">Chris Lipscombe</a> – see also Chris’s
+page on <a href="https://hol.kag.org/page/piqadsupport.html"><em><b lang=tlh>pI­qaD</b> Writing</em></a>).
+<em>KApIqaDRoman</em> differs from its predecessor in that a punctuation bug
+(<span class=piqad title="Full Stop (.!?)">.</span> and <span class=piqad
+title="Half Stop (,;:)">,</span> were swapped) has been fixed, and that the
+space was widened by 50% to make it more clearly discernible.
+(<em>KApIqaDRoman</em> is available in <a href="kapiqadroman-medium.ttf">Truetype</a>,
+<a href="kapiqadroman-medium.woff">WOFF</a> and <a href="kapiqadroman-medium.sfd">Fontforge</a>
+formats.)</li>
+</ol>
+</div>
+
+<footer role=contentinfo>
+  <p class=copyright>© <time itemprop=copyrightYear>2000</time>&ndash;<time>2020</time> by
+    <a href="mailto:zrajm@klingonska.org" rel=author itemprop=author>zrajm</a>,
+    <a href="http://klingonska.org/" itemprop=sourceOrganization>Klingonska Akademien</a>, Uppsala
+  <p>License: <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel=license>CC BY-SA</a>
+</footer>
+<script src="../../includes/titlewrap.js"></script>
+<script src="../../includes/jquery-1.7.1.js"></script>
+<script>$(() => {
+  let $w = $('.wrapper');
+  $('.switch').removeAttr('hidden').on('click keypress', (e) => {
+      if (e.type === 'keypress') {
+          if (e.shiftKey || e.ctrlKey || e.altKey || e.metaKey) { return; }
+          if (e.which !== 13 && e.which !== 32) { return; }
+      }
+      e.preventDefault();
+      $w.toggleClass('piqad-view roman-view')
+  });
+})</script>
+<!--[eof]-->

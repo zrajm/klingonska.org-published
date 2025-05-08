@@ -1,0 +1,115 @@
+: -*- html -*-
+title: Klingonsk ordbok
+author: zrajm
+year: 1998-2009
+lang: sv
+prev: tillagg-02
+next: tillagg-04
+
+Engelsk-svensk guide till översatta termer [[*]]
+================================================
+
+Detta är tänkt att utgöra en guide vid översättningen till svenska och syftar
+till att åstadkomma en möjlighet till konsekvent använd grammatisk terminologi.
+"¿?" indikerar att jag ännu inte funnit någon lämplig översättning. Har du
+åsikter om översättingen, skicka då ett brev till mig
+(_<a href="mailto:zrajm@klingonska.org">zrajm</a>_) och tala om det. All form
+av feedback (positiv liksom negativ) är välkommen, och konstruktiv kritik
+värderas högt.
+
+
+__accent__ brytning [TKD sid.13 m.fl.]
+
+__adjective__ adjektiv
+
+__aspect__ aspekt
+
+[[__bilabial__ bilabial]]
+
+[[__context__ sammanhang (inte "kontext")]]
+
+__exclamation__ interjektion
+
+__glottal stop__ laryngal klusil
+
+__head noun__ korrelat/¿huvudsubstantiv? [TKD sid.63 m.fl.] (se även "relative
+clause") -- Att MO syftar på korrelatet tycks stå utom tvekan, däremot verkar
+hans "head noun" vara en hemkokt terminologi -- kanske med någon nyansskillnad
+-- således kanske denna terminologiska skillnad borde bibehållas genom
+översättningen "huvudsubstantiv"?
+
+__grammatical gender__ genus [TKD sid.51]
+
+__imperative__ imperativ
+
+__imperative prefix__ imperativprefix
+
+__indefinite subject__ indefinit subjekt [TKD sid.38 m.fl.]
+
+__indirect object__ indirekt objekt [TKD sid.180 m.fl.]
+
+__interrogative__ interrogativ
+
+__Klingon__/__the Klingon language__ klingonska/klingonska språket [TKD
+sid.13 m.fl.]
+
+__locative__ lokativ [TKD sid.27 m.fl.]
+
+__noun__ substantiv [TKD sid.19 m.fl.]
+
+__object__ objekt [TKD sid.59 m.fl.]
+
+__part of speech__ ordklass [TKD sid.18 m.fl.]
+
+__passive voice__ passiv form [TKD sid.39]
+
+Exempel:
+
+> |-------------|---------------------------------|--------------------|
+> | klingonska  | svenska                         | engelska           |
+> | {Daqawlu'}  | du koms ihåg / du är ihågkommen | you are remembered |
+> | {wIleghlu'} | vi ses / vi är sedda            | we are seen        |
+> | {Soplu'}    | den äts / den blir äten         | it is eaten        |
+
+__perfective__ ¿perfektiv? [TKD sid.63 m.fl.]
+
+__pronominal prefix__ pronominellt prefix
+
+__pronoun__ pronomen (best. pronomenet; plur.
+orbest. pronomina, best. pronomina)  [TKD sid.51 m.fl.]
+
+__phonological__ fonologisk [TKD sid.13]
+
+__possessive__ possesiv/possesiva [TKD sid.52]
+
+__pronominal prefixes__ pronominella prefix
+
+__purpose clause__ kausal bisats [TKD sid.64 m.fl.]
+
+__relative clause__ relativ bisats [TKD sid.63 m.fl.] (se även "head noun")
+exempel:
+
+> |------------------|--------------------------------|-------------------------|
+> | klingonska       | svenska                        | engelska                |
+> | {qIppu'bogh yaS} | officeren som slog honom/henne | officer who hit him/her |
+> | {yaS qIppu'bogh} | officeren som han/hon slog     | officer whom he/she hit |
+
+__simple nouns__ enkla substantiv [TKD sid.19 m.fl.]
+
+__stop__ klusil (fonetisk term)
+
+__subordinate clause__ bisats [TKD sid.62 m.fl.]
+
+__subject__ subjekt [TKD sid.59 m.fl.]
+
+__syllable__ stavelse [TKD sid.20 m.fl.]
+
+__verb__ verb [TKD sid.32 m.fl.]
+
+__vocal cords__ stämband [TKD sid.14]
+
+[[__voiced__ tonande]]
+
+[[__voiceless__ tonlös]]
+
+[[eof]]

@@ -1,0 +1,1 @@
+(function(c,a){var e,d=a.getElementById("logotitle").offsetWidth;function b(){var g,f=a.getElementById("logospace");f.innerHTML="&nbsp;";g=c.innerWidth||a.documentElement.offsetWidth||a.body.offsetWidth;if(d>g){f.innerHTML="<br>"}}c.onresize=function(){c.clearTimeout(e);e=c.setTimeout(b,10)};b()}(window,document));
