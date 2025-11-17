@@ -1,0 +1,32 @@
+/*-*- js-indent-level: 2 -*-*/
+// Copyright 2025 by zrajm. Licenses: CC BY-SA (text), GPLv2 (code).
+
+// URL-compatible, non-padded base64.
+function base64encode(x) {
+    try {
+        return btoa(x).replace(/[+\/=]/g, x => ({'+': '-', '/': '_'}[x] || ''))
+    } catch { return '' }
+}
+function base64decode(x) {
+    try {
+        return atob(x.replace(/[-_]/g, x => ({'-': '+', '_': '/'}[x])))
+    } catch { return '' }
+}
+// Query string to URL parameter.
+function urlEncodeQuery(str) {
+    return str.split(/([\u{10c900}-\u{10c9ff}]+)/u).map((x, i) => {
+        if (i % 2 === 0) { return encodeURIComponent(x) }
+        x = Uint8Array.from(x, x => x.codePointAt(0) - 0x10c900)
+        x = String.fromCharCode(...x)
+        return `~${base64encode(x)}~`
+    }).join('')
+}
+// URL parameter to query string.
+function urlDecodeQuery(str) {
+    return str.split(/~([^~]*)~/u).map((x, i) => {
+        if (i % 2 === 0) { return decodeURIComponent(x) }
+        x = base64decode(x)
+        x = Array.from(x, x => x.charCodeAt(0) + 0x10c900)
+        return String.fromCodePoint(...x)
+    }).join('')
+}
